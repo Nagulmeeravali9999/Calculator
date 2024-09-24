@@ -1,0 +1,32 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: rgb(12, 0, 0);
+    color: #fff;
+    height: auto;
+    width: 25rem;
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+}
+section{
+    background-color: rgb(25, 212, 106);
+}
+form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.btn{
+    height: auto;
+    width: 5rem;
+}
+#display{
+    height: 5rem;
+    font-size: 2.5rem;
+}
